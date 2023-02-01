@@ -1,0 +1,833 @@
+body{
+    
+    
+   
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container{
+    margin: -8px 0px 0px -8px ;
+    
+}
+
+
+/*header start*/
+
+
+.header{
+    width: 1440px;
+    height: 77px;
+    display: flex;
+    margin: 0px;
+    color: #fff;
+    
+
+    background: linear-gradient(269.91deg, rgba(46, 49, 146, 0.7) 0%, rgba(212, 20, 90, 0.7) 98.16%);
+    background-size: auto;
+    
+}
+
+.header{
+    text-align: center;
+}
+
+.fa-phone{
+    font-size: 20px;
+}
+
+.fa-instagram{
+    font-size: 33px;
+}
+
+.fa-location-dot{
+    font-size: 22px;
+}
+
+
+.icon__text{
+    font-size: 15px;
+}
+
+.tell {
+    margin: 31px 0px 0px 130px ;
+    
+}
+
+.gps{
+    margin: 26px 0px 0px 240px ;
+    
+}
+
+.inst{
+    margin: 21px 0px 0px 383px ;
+
+}
+
+
+.insta__text{
+    text-decoration: none;
+    color: #fff;
+    
+    
+}
+.insta__stor{
+    display: inline;
+}
+
+/*header end*/
+
+
+
+
+/*Link start*/
+.link{
+    display: flex;
+    align-items: center;
+    
+
+
+}
+.link h2 h3 h4 h5 h6 {
+    margin: 0 auto;
+
+}
+
+
+.img__evarugs{
+    margin: 48px 10px 34px 119px;
+}
+
+
+.link h2{
+font-size: 36px;
+font-style: italic;
+line-height: 42.19px;
+font-weight: 900;
+
+
+/*margin: 3.5% 0% 0% 1%;*/
+}
+
+.link__text{
+    margin: -14px 0px 0px 660px;   
+    
+
+
+}
+
+.link__text a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #737373;
+    margin-right: 5px;
+}/*Link end*/
+
+
+
+
+/*About start*/
+.about{
+    display: flex;
+}
+
+.left_about{
+    margin: 117px 0px 0px 123px;
+}
+
+.left_about h3{
+    margin-top: -18px;
+}
+.mobileh1{
+    display: none;
+}
+
+h1{
+    font-family: 'Roboto';
+    font-size: 50px;
+    font-weight: 2000;
+    line-height: 58.59px;
+}
+.left_about a{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28.13px;
+
+
+    
+}
+ /*About end*/
+ 
+ /*Vector start*/
+.vector{ 
+    position: absolute;
+}
+
+
+.vector__img1{
+    margin: -25px 8px 35px 295px;
+    position: relative;
+}
+.vector__img2{
+    margin: -17px 0px 0px -12px;
+    position: absolute;
+}
+
+.vector__img3{
+margin:62px 44px 10px 29px;
+    position: relative;
+
+}
+.vector__img4{
+    margin: 97px 0px 0px -135px;
+position: absolute;
+
+}
+.vector__img5{
+    position: absolute;
+    margin:110px 0px 0px -63px;
+
+
+}
+
+
+.button button{
+    width: 179px;
+    height: 53px;
+    font-size: 20px;
+    color: #fff;
+    
+
+
+    background: linear-gradient(95.2deg, #B90160 2.23%, #2E3192 99.51%);
+    border-radius: 7px;
+}
+
+
+
+.right_about{
+    display: flex;
+    
+
+    
+    
+}
+
+
+.img__one{
+    position: relative;
+    margin: -81px 0px 0px 153px;    
+}
+
+.img__two{
+    position: absolute;
+    margin: -5px 0px 0px 8px;
+}
+
+/*vector end*/
+
+
+
+/*card start*/
+.card{
+    display: flex;
+    justify-content: center;
+    margin-top: -22px;
+
+
+}
+.card h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.eva__text{
+    
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 58.59px;
+
+
+    background: linear-gradient(90deg, #B90160 30%, #3D5BF5 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #000000;
+    
+}
+
+.covr__mobile{
+    display: none;
+}
+
+
+.card__img{
+    display: flex;
+    margin-top: 67px;
+    
+}
+
+
+.card__col{
+    
+    height: 414px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(184, 0, 95, 0.2);
+    border-radius: 9px;
+
+    position: relative;
+    z-index: 1;
+
+    text-align: left;
+}
+
+
+.matterial{
+    margin: 0px 0px 0px 142px;
+
+}
+.difference{
+    margin: 0px 0px 0px 61px;
+
+}
+
+.colors{
+    margin: 0px 0px 0px 62px;
+
+}
+
+
+
+.card__img h3{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: start;
+    
+
+    margin: 5% 9%;
+
+ 
+}
+
+.card__col h6{
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #767676;
+    
+    margin: 5%;
+    
+    
+}
+.card__col img{
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+
+
+
+.vector__card{
+    display: flex;
+    position: absolute;
+
+    margin: -6px 0px 0px 8px;
+   
+}
+
+.vector__two{
+    margin: 455px 0px 0px -36px;
+}
+
+.vector__three{
+    margin: 205px 0px 0px -37px;
+}
+/*Card end*/
+
+/*Clients start*/
+
+.clients{
+    position: relative;
+    width: 1440px;
+    height: 357px;
+    
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+    margin-top: 225px;
+    
+    display: flex;
+
+
+    
+
+}
+
+
+
+.clients h5{
+    margin: -23px;
+}
+
+
+
+
+    
+
+
+
+.text__linea{
+    width: 536px;
+    height: 187px;
+    
+    border-radius: 9px;
+    
+    text-align: center;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.25);
+
+    margin:10px 10px 10px 10px;
+
+
+    position: relative;
+
+
+
+    
+}
+
+.text__clients{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    padding: 8%;
+    color: #000000;
+
+    position: relative;
+}
+
+.text__linea h5::before{
+    content: "";
+    display: block;
+    width: 130px;
+    height: 3px;
+    margin: 10px auto;
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+}
+
+/*costya*/
+
+.costya{
+    opacity: 0.25;
+    margin: -28px 0px 0px -166px;
+
+    
+ }
+    
+    
+.costya__img{
+    margin: 61px 0px -61px 222px;
+    position: relative;
+    z-index: 1
+}
+
+.costya__ramka {
+    position: absolute;
+    margin: 0px 0px 0px 13px;
+}
+
+
+/*costya*/
+
+/*vira*/
+
+
+.vira{
+    
+    margin: -12px 0px 0px 53px;
+}
+
+.vira__img{
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    z-index: 1;
+
+    margin: 43px 0px -61px 232px;
+    
+
+}
+/*vira*/
+
+
+/*mulola*/
+
+.mukola{
+    margin: 0px 0px 0px 48px;
+   
+    opacity: 0.25;
+}
+
+
+.mukola__img{
+    margin: 29px 0px -59px 235px;
+    position: relative;
+    z-index: 1
+
+}
+/*mulola*/
+
+
+
+
+.photo{
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    margin: 6px 15px 1px -97px;
+
+
+}
+
+.photo__ramka{
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+
+.footer{
+    display: flex;
+
+}
+
+.footer__img1{
+    margin: 82px 0px 0px 68px;
+
+
+}
+
+.inst__img{
+    margin: 145px 0px 0px 58px;
+
+}
+
+.numer{
+    margin: 146px 0px 0px 204px;;
+
+
+}
+
+.aboutpronas{
+    margin: 148px 0px 0px 206px;
+
+
+}
+
+.footer__img2{
+    margin: 19px 0px 0px -91px;
+
+
+}
+/*Footer end*/
+
+
+
+
+@media (max-device-width: 1440px)  {
+    .img__logomobile{
+        display: none;
+    }
+    .img__onemobile{
+        display: none;
+    }
+}
+
+
+
+
+@media (max-device-width: 320px)  {
+    
+    /*header start*/
+    .container{
+        width: 320px;
+        
+    }
+    .header{
+        width: 320px;
+        height: 99px;
+        display: flex;
+        text-align: center;
+
+    }
+    .tell {
+        margin: 18px 0px 0px 67px ;
+        
+    }
+    
+
+    .fa-phone{
+        display: none;
+
+    }
+
+    .gps {
+        margin: 51px 136px -4px -108px;
+    }
+    .fa-location-dot{
+        display: none;
+    }
+    .inst{
+        display: none;
+    }
+   /*header end*/
+ 
+
+    /*Link start*/
+
+     .link{
+        width: 320px;
+     }
+     .link__text{
+        display: none;
+     }
+     .link h2{
+        font-size: 18px;
+        font-weight: 900;
+        font-style: italic;
+        line-height: 21.09px;
+     }
+     .img__evarugs{
+        margin: 25px 0px 0px 70px;
+    }
+
+    
+     .img__logo{
+       display: none;
+     }
+     .img__logomobile{
+        display: block;
+        margin: 0px 9px 30px 0px;
+     }
+
+
+     /*Link end*/
+     
+
+
+     /*About start*/
+     .vector{
+        display: none;
+     }
+     .img__onemobile{
+        display: block;
+        margin: 68px 0px 0px -541px;
+    }
+    .img__desctop{
+        display: none;
+    }
+    .left_about {
+        margin: -9px 124px 0px 116px;
+    }
+
+    .left_about h1{
+        font-family: 'Roboto';
+        font-size: 25px;
+        font-weight: 900;
+        line-height: 25px;
+        text-align:center;
+
+        
+    }
+    .left_about h3{
+        font-family: 'Roboto';
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 23.44px;
+    }
+    .desctoph1{
+        display: none;
+    }
+    .mobileh1{
+        display: block;
+        
+        
+    }
+
+    .button button{
+        width: 93px;
+        height: 28px;
+        font-size: 10px;
+    }
+    
+     /*About end*/
+
+     /*card start*/
+     
+     .card{
+        margin-top: -70px;
+        width: 320px;
+
+     }
+
+     .card h2{
+        font-size: 20px;
+        font-weight: 400;
+     }
+     .eva__text{
+    
+        font-size: 20px;
+        
+     }
+    
+
+     .card__img {
+        display: block;
+
+        margin-right: 24px;
+    }
+    .vector__card{
+        display: none;
+    }
+    .covr__desctop{
+        display: none;
+    }
+
+    .covr__mobile{
+        display: block;
+    }
+
+    .matterial {
+        margin: -49px 0px 0px 33px;
+    }
+    .difference {
+        margin: -21px 0px 0px 33px;
+    }
+    .colors {
+        margin: -9px 0px 0px 33px;
+    }
+   /*card end*/
+
+    /*clients  start*/
+    .clients{
+        width: 320px;
+        height: 948px;
+        display: block;
+    }
+
+    .text__linea{
+        width: 267px;
+        height: 210px;
+        margin: 0px 0px;
+    }
+
+
+    .costya{
+        opacity: 4;
+        margin: -147px 0px 0px 29px;
+    }
+    .costya__img {
+        margin: 0px 0px -47px 221px;
+    }
+
+    .costya__ramka {
+        
+        margin: 34px 0px 0px -134px;
+    }
+
+
+    .vira{
+        opacity: 4;
+        margin: 4px 0px 0px 29px;
+    }
+    .vira__img {
+        margin: -11px 0px -52px 221px;
+    }
+
+    .vira__ramka {
+        
+        margin: 34px 0px 0px -134px;
+    }
+
+
+    .mukola{
+        opacity: 4;
+        margin: 4px 0px 0px 29px;
+    }
+    .mukola__img {
+        margin: -11px 0px -52px 221px;
+    }
+
+    .mukola__ramka {
+        
+        margin: 34px 0px 0px -134px;
+    }
+
+    .text__clients{
+        font-size: 12px;
+        line-height: 14.06px;
+        font-weight: 300;
+        padding: 20%;
+    }
+
+       /*client end*/
+
+
+      /*footer start*/
+      .footer{
+        display: block;
+        text-align: center;
+      }
+    .footer__img1, .footer__img2{
+        display: none;
+    }
+    .inst__img {
+        margin: 141px 0px 0px -16px;
+    }
+    .numer {
+        margin: -178px 0px 0px 0px;
+    }
+    .aboutpronas {
+        margin: 83px 0px 0px 0px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
